@@ -1,0 +1,14 @@
+C:\dotNet\P6(form)\P6(form)\bin\Debug\Properties\Database1.mdf
+C:\dotNet\P6(form)\P6(form)\bin\Debug\Properties\Database1_log.ldf
+C:\dotNet\P6(form)\P6(form)\bin\Debug\P6(form).exe.config
+C:\dotNet\P6(form)\P6(form)\bin\Debug\P6(form).exe
+C:\dotNet\P6(form)\P6(form)\bin\Debug\P6(form).pdb
+C:\dotNet\P6(form)\P6(form)\obj\Debug\P6(form).csprojAssemblyReference.cache
+C:\dotNet\P6(form)\P6(form)\obj\Debug\P6_form_.Form1.resources
+C:\dotNet\P6(form)\P6(form)\obj\Debug\P6_form_.Properties.Resources.resources
+C:\dotNet\P6(form)\P6(form)\obj\Debug\P6(form).csproj.GenerateResource.cache
+C:\dotNet\P6(form)\P6(form)\obj\Debug\P6(form).csproj.CoreCompileInputs.cache
+C:\dotNet\P6(form)\P6(form)\obj\Debug\P6(form).exe
+C:\dotNet\P6(form)\P6(form)\obj\Debug\P6(form).pdb
+C:\dotNet\P6(form)\P6(form)\bin\Debug\Properties\Database2.mdf
+C:\dotNet\P6(form)\P6(form)\bin\Debug\Properties\Database2_log.ldf
